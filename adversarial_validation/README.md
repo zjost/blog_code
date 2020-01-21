@@ -1,7 +1,7 @@
 # Overview
 This example implements adversarial validation using the [IEEE Credit Card Fraud Detection dataset](https://www.kaggle.com/c/ieee-fraud-detection/data) on Kaggle.  
 
-This code compliments an explanatory [YouTube video](https://www.youtube.com/channel/UCxw9_WYmLqlj5PyXu2AWU_g) and [Blog post](https://blog.zakjost.com) from Zak Jost.
+This code compliments an explanatory [YouTube video](https://youtu.be/7cUCDRaIZ7I) and [Blog post](https://blog.zakjost.com) from Zak Jost.
 
 # Requirements
 - The [notebook](adversarial-validation-example.ipynb) assumes you have downloaded the dataset from Kaggle and unzipped it.  
